@@ -1,0 +1,18 @@
+﻿@{
+    Layout = "_Layout";
+}
+<style>
+    .bold {
+        font-weight: bold;
+    }
+</style>
+
+<h2>PassUsingViewBag</h2>
+<p><span class="bold">Rand Value First: @ViewBag.firstNumber</span></p>
+<p><span class="bold">Rand Value Second: @ViewBag.secondNumber</span></p>
+<p><span class="bold">Add: </span><br /> @ViewBag.firstNumber + @ViewBag.secondNumber = @ViewBag.AddResult</p>
+<p><span class="bold">Sub: </span><br /> @ViewBag.firstNumber - @ViewBag.secondNumber = @ViewBag.SubResult</p>
+<p><span class="bold">Mult: </span><br /> @ViewBag.firstNumber * @ViewBag.secondNumber = @ViewBag.MultResult</p>
+<p><span class="bold">Div: </span><br /> @ViewBag.firstNumber / @ViewBag.secondNumber = @ViewBag.DivResult</p>
+
+

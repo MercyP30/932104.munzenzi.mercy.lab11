@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] Home Page- Backend1</title>
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+
+</head>
+<body>
+    <header>
+        <nav class="nav-bar">
+            <ul class="head-list">
+                <li class="list" id="ProjName"><a href="/">Backend1</a></li>
+                <li class="list"><a href="/">Home</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <div class="main-text">
+            @RenderBody()
+        </div>
+    </main>
+
+    <footer>
+        <div class="copyright">
+            &copy 2023 - Backend1
+        </div>
+    </footer>
+</body>
+</html>

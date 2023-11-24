@@ -1,0 +1,33 @@
+﻿@model CalculatorViewModel
+
+@{
+    Layout = "_Layout";
+}
+<style>
+    .bold {
+        font-weight: bold;
+    }
+</style>
+
+<h2>PassUsingModel</h2>
+<p><span class="bold">Rand Value First: @Model.num1</span></p>
+<p><span class="bold">Rand Value Second: @Model.num2</span></p>
+<p>
+    <span class="bold">Add:</span><br />
+    @Model.num1 + @Model.num2 = @Model.AddResult
+</p>
+<p>
+    <span class="bold">Sub:</span><br />
+    @Model.num1 - @Model.num2 = @Model.SubResult
+</p>
+<p>
+    <span class="bold">Mult:</span><br />
+    @Model.num1 * @Model.num2 = @Model.MultResult
+</p>
+<p>
+    <span class="bold">Div: </span><br />
+    @Model.num1 / @Model.num2 = @Model.DivResult
+</p>
+
+
+

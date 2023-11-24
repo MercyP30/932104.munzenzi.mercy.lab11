@@ -1,0 +1,381 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\munze\\source\\repos\\Backend1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB2D93E-7777-4840-9D64-1E1F92CB9B25}|Backend1.csproj|c:\\users\\munze\\source\\repos\\backend1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB2D93E-7777-4840-9D64-1E1F92CB9B25}|Backend1.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB2D93E-7777-4840-9D64-1E1F92CB9B25}|Backend1.csproj|c:\\users\\munze\\source\\repos\\backend1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDB2D93E-7777-4840-9D64-1E1F92CB9B25}|Backend1.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB2D93E-7777-4840-9D64-1E1F92CB9B25}|Backend1.csproj|c:\\users\\munze\\source\\repos\\backend1\\services\\_calculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB2D93E-7777-4840-9D64-1E1F92CB9B25}|Backend1.csproj|solutionrelative:services\\_calculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB2D93E-7777-4840-9D64-1E1F92CB9B25}|Backend1.csproj|c:\\users\\munze\\source\\repos\\backend1\\services\\calculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB2D93E-7777-4840-9D64-1E1F92CB9B25}|Backend1.csproj|solutionrelative:services\\calculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB2D93E-7777-4840-9D64-1E1F92CB9B25}|Backend1.csproj|c:\\users\\munze\\source\\repos\\backend1\\controllers\\icalculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB2D93E-7777-4840-9D64-1E1F92CB9B25}|Backend1.csproj|solutionrelative:controllers\\icalculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB2D93E-7777-4840-9D64-1E1F92CB9B25}|Backend1.csproj|c:\\users\\munze\\source\\repos\\backend1\\services\\icalculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB2D93E-7777-4840-9D64-1E1F92CB9B25}|Backend1.csproj|solutionrelative:services\\icalculatorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB2D93E-7777-4840-9D64-1E1F92CB9B25}|Backend1.csproj|c:\\users\\munze\\source\\repos\\backend1\\controllers\\calcservicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB2D93E-7777-4840-9D64-1E1F92CB9B25}|Backend1.csproj|solutionrelative:controllers\\calcservicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB2D93E-7777-4840-9D64-1E1F92CB9B25}|Backend1.csproj|c:\\users\\munze\\source\\repos\\backend1\\models\\calculatorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB2D93E-7777-4840-9D64-1E1F92CB9B25}|Backend1.csproj|solutionrelative:models\\calculatorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB2D93E-7777-4840-9D64-1E1F92CB9B25}|Backend1.csproj|c:\\users\\munze\\source\\repos\\backend1\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDB2D93E-7777-4840-9D64-1E1F92CB9B25}|Backend1.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB2D93E-7777-4840-9D64-1E1F92CB9B25}|Backend1.csproj|c:\\users\\munze\\source\\repos\\backend1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDB2D93E-7777-4840-9D64-1E1F92CB9B25}|Backend1.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB2D93E-7777-4840-9D64-1E1F92CB9B25}|Backend1.csproj|c:\\users\\munze\\source\\repos\\backend1\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDB2D93E-7777-4840-9D64-1E1F92CB9B25}|Backend1.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB2D93E-7777-4840-9D64-1E1F92CB9B25}|Backend1.csproj|c:\\users\\munze\\source\\repos\\backend1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDB2D93E-7777-4840-9D64-1E1F92CB9B25}|Backend1.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB2D93E-7777-4840-9D64-1E1F92CB9B25}|Backend1.csproj|c:\\users\\munze\\source\\repos\\backend1\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{CDB2D93E-7777-4840-9D64-1E1F92CB9B25}|Backend1.csproj|solutionrelative:views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB2D93E-7777-4840-9D64-1E1F92CB9B25}|Backend1.csproj|c:\\users\\munze\\source\\repos\\backend1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB2D93E-7777-4840-9D64-1E1F92CB9B25}|Backend1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB2D93E-7777-4840-9D64-1E1F92CB9B25}|Backend1.csproj|c:\\users\\munze\\source\\repos\\backend1\\views\\calcservice\\passusingviewdata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDB2D93E-7777-4840-9D64-1E1F92CB9B25}|Backend1.csproj|solutionrelative:views\\calcservice\\passusingviewdata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB2D93E-7777-4840-9D64-1E1F92CB9B25}|Backend1.csproj|c:\\users\\munze\\source\\repos\\backend1\\views\\calcservice\\passusingviewbag.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDB2D93E-7777-4840-9D64-1E1F92CB9B25}|Backend1.csproj|solutionrelative:views\\calcservice\\passusingviewbag.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB2D93E-7777-4840-9D64-1E1F92CB9B25}|Backend1.csproj|c:\\users\\munze\\source\\repos\\backend1\\views\\calcservice\\passusingmodel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDB2D93E-7777-4840-9D64-1E1F92CB9B25}|Backend1.csproj|solutionrelative:views\\calcservice\\passusingmodel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB2D93E-7777-4840-9D64-1E1F92CB9B25}|Backend1.csproj|c:\\users\\munze\\source\\repos\\backend1\\views\\calcservice\\accessservicedirectly.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDB2D93E-7777-4840-9D64-1E1F92CB9B25}|Backend1.csproj|solutionrelative:views\\calcservice\\accessservicedirectly.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB2D93E-7777-4840-9D64-1E1F92CB9B25}|Backend1.csproj|c:\\users\\munze\\source\\repos\\backend1\\backend1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CDB2D93E-7777-4840-9D64-1E1F92CB9B25}|Backend1.csproj|solutionrelative:backend1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB2D93E-7777-4840-9D64-1E1F92CB9B25}|Backend1.csproj|c:\\users\\munze\\source\\repos\\backend1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDB2D93E-7777-4840-9D64-1E1F92CB9B25}|Backend1.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDB2D93E-7777-4840-9D64-1E1F92CB9B25}|Backend1.csproj|c:\\users\\munze\\source\\repos\\backend1\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{CDB2D93E-7777-4840-9D64-1E1F92CB9B25}|Backend1.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\munze\\source\\repos\\Backend1\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\munze\\source\\repos\\Backend1\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-24T07:30:43.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\munze\\source\\repos\\Backend1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\munze\\source\\repos\\Backend1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-24T07:13:47.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\munze\\source\\repos\\Backend1\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\munze\\source\\repos\\Backend1\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-24T07:15:03.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CalculatorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\munze\\source\\repos\\Backend1\\Models\\CalculatorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\CalculatorViewModel.cs",
+              "ToolTip": "C:\\Users\\munze\\source\\repos\\Backend1\\Models\\CalculatorViewModel.cs",
+              "RelativeToolTip": "Models\\CalculatorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-24T07:11:33.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CalculatorService.cs",
+              "DocumentMoniker": "C:\\Users\\munze\\source\\repos\\Backend1\\Services\\CalculatorService.cs",
+              "RelativeDocumentMoniker": "Services\\CalculatorService.cs",
+              "ToolTip": "C:\\Users\\munze\\source\\repos\\Backend1\\Services\\CalculatorService.cs",
+              "RelativeToolTip": "Services\\CalculatorService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-24T07:13:05.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICalculatorService.cs",
+              "DocumentMoniker": "C:\\Users\\munze\\source\\repos\\Backend1\\Controllers\\ICalculatorService.cs",
+              "RelativeDocumentMoniker": "Controllers\\ICalculatorService.cs",
+              "ToolTip": "C:\\Users\\munze\\source\\repos\\Backend1\\Controllers\\ICalculatorService.cs",
+              "RelativeToolTip": "Controllers\\ICalculatorService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-24T07:27:22.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICalculatorService.cs",
+              "DocumentMoniker": "C:\\Users\\munze\\source\\repos\\Backend1\\Services\\ICalculatorService.cs",
+              "RelativeDocumentMoniker": "Services\\ICalculatorService.cs",
+              "ToolTip": "C:\\Users\\munze\\source\\repos\\Backend1\\Services\\ICalculatorService.cs",
+              "RelativeToolTip": "Services\\ICalculatorService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-24T07:22:10.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_calculatorService.cs",
+              "DocumentMoniker": "C:\\Users\\munze\\source\\repos\\Backend1\\Services\\_calculatorService.cs",
+              "RelativeDocumentMoniker": "Services\\_calculatorService.cs",
+              "ToolTip": "C:\\Users\\munze\\source\\repos\\Backend1\\Services\\_calculatorService.cs",
+              "RelativeToolTip": "Services\\_calculatorService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-24T07:22:58.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\munze\\source\\repos\\Backend1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\munze\\source\\repos\\Backend1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-24T07:06:46.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CalcServiceController.cs",
+              "DocumentMoniker": "C:\\Users\\munze\\source\\repos\\Backend1\\Controllers\\CalcServiceController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CalcServiceController.cs",
+              "ToolTip": "C:\\Users\\munze\\source\\repos\\Backend1\\Controllers\\CalcServiceController.cs",
+              "RelativeToolTip": "Controllers\\CalcServiceController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwB0AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-24T07:08:40.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\munze\\source\\repos\\Backend1\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\munze\\source\\repos\\Backend1\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-24T07:15:20.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\munze\\source\\repos\\Backend1\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\munze\\source\\repos\\Backend1\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2023-11-24T07:14:37.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\munze\\source\\repos\\Backend1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\munze\\source\\repos\\Backend1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-24T07:05:17.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\munze\\source\\repos\\Backend1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\munze\\source\\repos\\Backend1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-24T07:14:59.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PassUsingViewData.cshtml",
+              "DocumentMoniker": "C:\\Users\\munze\\source\\repos\\Backend1\\Views\\CalcService\\PassUsingViewData.cshtml",
+              "RelativeDocumentMoniker": "Views\\CalcService\\PassUsingViewData.cshtml",
+              "ToolTip": "C:\\Users\\munze\\source\\repos\\Backend1\\Views\\CalcService\\PassUsingViewData.cshtml",
+              "RelativeToolTip": "Views\\CalcService\\PassUsingViewData.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-24T07:18:28.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PassUsingViewBag.cshtml",
+              "DocumentMoniker": "C:\\Users\\munze\\source\\repos\\Backend1\\Views\\CalcService\\PassUsingViewBag.cshtml",
+              "RelativeDocumentMoniker": "Views\\CalcService\\PassUsingViewBag.cshtml",
+              "ToolTip": "C:\\Users\\munze\\source\\repos\\Backend1\\Views\\CalcService\\PassUsingViewBag.cshtml",
+              "RelativeToolTip": "Views\\CalcService\\PassUsingViewBag.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-24T07:17:55.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PassUsingModel.cshtml",
+              "DocumentMoniker": "C:\\Users\\munze\\source\\repos\\Backend1\\Views\\CalcService\\PassUsingModel.cshtml",
+              "RelativeDocumentMoniker": "Views\\CalcService\\PassUsingModel.cshtml",
+              "ToolTip": "C:\\Users\\munze\\source\\repos\\Backend1\\Views\\CalcService\\PassUsingModel.cshtml",
+              "RelativeToolTip": "Views\\CalcService\\PassUsingModel.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-24T07:17:29.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AccessServiceDirectly.cshtml",
+              "DocumentMoniker": "C:\\Users\\munze\\source\\repos\\Backend1\\Views\\CalcService\\AccessServiceDirectly.cshtml",
+              "RelativeDocumentMoniker": "Views\\CalcService\\AccessServiceDirectly.cshtml",
+              "ToolTip": "C:\\Users\\munze\\source\\repos\\Backend1\\Views\\CalcService\\AccessServiceDirectly.cshtml",
+              "RelativeToolTip": "Views\\CalcService\\AccessServiceDirectly.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-11-24T07:16:54.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Backend1",
+              "DocumentMoniker": "C:\\Users\\munze\\source\\repos\\Backend1\\Backend1.csproj",
+              "RelativeDocumentMoniker": "Backend1.csproj",
+              "ToolTip": "C:\\Users\\munze\\source\\repos\\Backend1\\Backend1.csproj",
+              "RelativeToolTip": "Backend1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2023-11-24T07:12:11.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\munze\\source\\repos\\Backend1\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\munze\\source\\repos\\Backend1\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AQIAABUAAAAAAAAAAAAQwEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2023-11-24T07:09:35.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\munze\\source\\repos\\Backend1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\munze\\source\\repos\\Backend1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-24T07:07:42.347Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

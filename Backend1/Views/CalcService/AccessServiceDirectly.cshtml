@@ -1,0 +1,43 @@
+﻿@inject Backend1.Services.CalculatorService _calculatorService
+
+@{
+    Layout = "_Layout";
+}
+<style>
+    .bold {
+        font-weight: bold;
+    }
+</style>
+
+@{
+    var random = new Random();
+    var num1 = random.Next(0, 11);
+    var num2 = random.Next(0, 11);
+
+    var result = _calculatorService.PerformCalculations(num1, num2);
+}
+
+<p><span class="bold">Rand Value First: @num1</span></p>
+<p><span class="bold">Rand Value Second: @num2</span></p>
+
+<p>
+    <span class="bold">Add:</span><br />
+    @num1 + @num2 = @result.AddResult
+</p>
+
+<p>
+    <span class="bold">Sub:</span><br />
+    @num1 - @num2 = @result.SubResult
+</p>
+
+<p>
+    <span class="bold">Mult:</span><br />
+    @num1 * @num2 = @result.MultResult
+</p>
+
+<p>
+    <span class="bold">Div:</span><br />
+    @num1 / @num2 = @result.DivResult
+</p>
+
+
